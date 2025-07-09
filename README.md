@@ -1,4 +1,4 @@
-[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)]
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Bhumika Das</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" width="400" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAC/coding.gif" alt="coding">
